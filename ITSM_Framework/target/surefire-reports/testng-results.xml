@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-11-20T11:22:45 AST" name="Suite" finished-at="2022-11-20T11:23:18 AST" duration-ms="32812">
+    <groups>
+    </groups>
+    <test started-at="2022-11-20T11:22:45 AST" name="Test" finished-at="2022-11-20T11:23:18 AST" duration-ms="32812">
+      <class name="com.stc7c7.testcases.LoginTest">
+        <test-method is-config="true" signature="startApp()[pri:0, instance:com.stc7c7.testcases.LoginTest@291b4bf5]" started-at="2022-11-20T11:22:45 AST" name="startApp" finished-at="2022-11-20T11:23:14 AST" duration-ms="28198" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startApp -->
+        <test-method signature="validateLogin()[pri:0, instance:com.stc7c7.testcases.LoginTest@291b4bf5]" started-at="2022-11-20T11:23:14 AST" name="validateLogin" finished-at="2022-11-20T11:23:18 AST" duration-ms="4032" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateLogin -->
+        <test-method is-config="true" signature="captureScreen(org.testng.ITestResult)[pri:0, instance:com.stc7c7.testcases.LoginTest@291b4bf5]" started-at="2022-11-20T11:23:18 AST" name="captureScreen" finished-at="2022-11-20T11:23:18 AST" duration-ms="549" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=validateLogin status=SUCCESS method=LoginTest.validateLogin()[pri:0, instance:com.stc7c7.testcases.LoginTest@291b4bf5] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- captureScreen -->
+        <test-method is-config="true" signature="quitApp()[pri:0, instance:com.stc7c7.testcases.LoginTest@291b4bf5]" started-at="2022-11-20T11:23:18 AST" name="quitApp" finished-at="2022-11-20T11:23:18 AST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitApp -->
+      </class> <!-- com.stc7c7.testcases.LoginTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

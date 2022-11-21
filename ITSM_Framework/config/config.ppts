@@ -1,0 +1,8 @@
+Browser=Chrome
+ITSMDevUrl=https://smartit.stc.com.sa:9000/smartit/app
+ApplicationUrl=https://ui.freecrm.com/
+ExcelTestDataFilePath=\\testdata\\LoginCred.xlsx
+ExcelTestDataFileName=LoginCred.xlsx
+ExcelTestDataSheet1=Login
+ExcelTestDataSheet2=Gherkin
+log4jRelativeFilePath=\\logs\\log4j2.properties
