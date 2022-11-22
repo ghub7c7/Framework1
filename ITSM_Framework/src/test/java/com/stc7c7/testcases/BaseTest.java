@@ -48,7 +48,7 @@ public class BaseTest
 	@AfterClass
 	public void quitApp()
 	{
-		//driver.quit();
+		driver.quit();
 		System.out.println("Application Quit");
 	}
 	
