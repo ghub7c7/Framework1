@@ -2,20 +2,20 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2022-11-23T11:14:45 AST" name="Default suite" finished-at="2022-11-23T11:14:56 AST" duration-ms="10517">
+  <suite started-at="2022-11-27T19:27:35 AST" name="Default suite" finished-at="2022-11-27T19:27:47 AST" duration-ms="11613">
     <groups>
     </groups>
-    <test started-at="2022-11-23T11:14:45 AST" name="Default test" finished-at="2022-11-23T11:14:56 AST" duration-ms="10517">
+    <test started-at="2022-11-27T19:27:35 AST" name="Default test" finished-at="2022-11-27T19:27:47 AST" duration-ms="11613">
       <class name="com.stc7c7.testcases.LoginTest">
-        <test-method is-config="true" signature="startApp()[pri:0, instance:com.stc7c7.testcases.LoginTest@77eca502]" started-at="2022-11-23T11:14:45 AST" name="startApp" finished-at="2022-11-23T11:14:51 AST" duration-ms="5841" status="PASS">
+        <test-method is-config="true" signature="startApp()[pri:0, instance:com.stc7c7.testcases.LoginTest@77eca502]" started-at="2022-11-27T19:27:35 AST" name="startApp" finished-at="2022-11-27T19:27:42 AST" duration-ms="6546" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- startApp -->
-        <test-method signature="validateLogin()[pri:0, instance:com.stc7c7.testcases.LoginTest@77eca502]" started-at="2022-11-23T11:14:51 AST" name="validateLogin" finished-at="2022-11-23T11:14:55 AST" duration-ms="4019" status="PASS">
+        <test-method signature="validateLogin()[pri:0, instance:com.stc7c7.testcases.LoginTest@77eca502]" started-at="2022-11-27T19:27:42 AST" name="validateLogin" finished-at="2022-11-27T19:27:46 AST" duration-ms="4207" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- validateLogin -->
-        <test-method is-config="true" signature="captureScreen(org.testng.ITestResult)[pri:0, instance:com.stc7c7.testcases.LoginTest@77eca502]" started-at="2022-11-23T11:14:55 AST" name="captureScreen" finished-at="2022-11-23T11:14:55 AST" duration-ms="441" status="PASS">
+        <test-method is-config="true" signature="captureScreen(org.testng.ITestResult)[pri:0, instance:com.stc7c7.testcases.LoginTest@77eca502]" started-at="2022-11-27T19:27:46 AST" name="captureScreen" finished-at="2022-11-27T19:27:47 AST" duration-ms="595" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -26,7 +26,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- captureScreen -->
-        <test-method is-config="true" signature="quitApp()[pri:0, instance:com.stc7c7.testcases.LoginTest@77eca502]" started-at="2022-11-23T11:14:55 AST" name="quitApp" finished-at="2022-11-23T11:14:56 AST" duration-ms="181" status="PASS">
+        <test-method is-config="true" signature="quitApp()[pri:0, instance:com.stc7c7.testcases.LoginTest@77eca502]" started-at="2022-11-27T19:27:47 AST" name="quitApp" finished-at="2022-11-27T19:27:47 AST" duration-ms="230" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- quitApp -->
